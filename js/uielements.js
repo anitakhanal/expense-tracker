@@ -1,0 +1,5 @@
+export const totalBanner = document.getElementById('total_banner')
+export const totalExpense = document.getElementById('total_expense')
+export const totalIncome = document.getElementById('total_income')
+export const addItemForm = document.getElementById('add_item_form')
+export const dataTableBody = document.getElementById('data_table_body')
